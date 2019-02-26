@@ -11,4 +11,5 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 I'll meet you over there, can't wait to get started!
 
 Website: https://juandiegov16.github.io/intro-html/
-Validation: https://validator.w3.org/nu/?showsource=yes&doc=https://juandiegov16.github.io/intro-html/
+
+Website validation: https://validator.w3.org/nu/?showsource=yes&doc=https://juandiegov16.github.io/intro-html/
